@@ -1,35 +1,35 @@
 {
   "ogloszenia": [
     {
-      "title": "ddddd",
-      "author": "fdsfsd",
-      "description": "cos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tam",
-      "phone": "444444",
-      "email": "5fgdge@sfdas",
+      "title": "Ogloszenie 2",
+      "author": "example autor",
+      "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
+      "phone": "999999999",
+      "email": "example@email.com",
       "id": 2
     },
     {
-      "title": "co tam",
-      "author": "nie",
-      "description": "cos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tam",
+      "title": "Ogloszenie 3",
+      "author": "example autor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "phone": "44444",
-      "email": "du@pa",
+      "email": "example@email.com",
       "id": 3
     },
     {
-      "title": "ddddd",
-      "author": "fdsafsdfas",
-      "description": "cos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tam",
+      "title": "Ogloszenie 4",
+      "author": "example autor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "phone": "9999999",
-      "email": "5fgdge@sfdas",
+      "email": "example@email.com",
       "id": 4
     },
     {
-      "title": "ddddd",
-      "author": "fdsafsdfas",
-      "description": "obudzilem sie wczoraj na kacu",
+      "title": "Ogloszenie 5",
+      "author": "example autor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "phone": "9999999",
-      "email": "5fgdge@sfdas",
+      "email": "example@email.com",
       "id": 5
     }
   ],
