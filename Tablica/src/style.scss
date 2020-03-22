@@ -1,0 +1,228 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    letter-spacing: 1px;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    height: 100%;
+    background-color: rgba(255, 255, 255,0.7);
+}
+.tablicaHeader {
+    width: 1200px;
+    height: 20vh;
+    color: 'red';
+    background-color: rgba(255, 255, 255,0.7);
+    h1 {
+        font-size: 3rem;
+        color: #438e9c;
+        line-height: 20vh;
+        text-align: center;
+    }
+}
+.sectionOgloszenia {
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.ogloszenie {
+    position: relative;
+    min-height: 250px;
+    margin: 10px 0;
+    padding: 20px;
+    background-color: rgba(210, 209, 214, 0.9);
+    border-radius: 5px;
+    h2 {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    h3 {
+        margin: 10px 0;
+        text-align: left;
+    }
+    p {
+        margin: 10px 0;
+        max-width: 50vw;
+    }
+    span{
+        display: block;
+        text-align: right;
+        margin: 5px 0;
+    }
+    span:first-of-type {
+        margin-top: 20px;
+    }
+    .fa-trash-alt {
+        font-size: 1.6rem;
+        color: red;
+        position: absolute;
+        right: 2.5%;
+        top: 4%
+    }
+    .fa-edit {
+        font-size: 1.6rem;
+        color: orange;
+        position: absolute;
+        right: 7%;
+        top: 4%
+    }
+}
+.sectionNav {
+    width: 150px;
+    ul {
+    padding: 20px;
+    list-style: none;
+        li {
+            padding: 1em
+        }
+        li:first-of-type {
+            height: 80px;
+            width: 150px;
+            background-color: #438e9c;
+            border: none;
+            border-radius: 20px;
+        }
+        li:nth-of-type(2) {
+            margin-top: 10px;
+            height: 80px;
+            width: 150px;
+            background-color: rgb(255, 255, 255);
+            border: none;
+            border-radius: 20px;
+        }
+        a {
+            text-decoration: none;
+        }
+    }
+}
+.modalDodaj {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(113, 148, 218,0.9);
+    position: absolute;
+    z-index: 1;
+    top: 30vh;
+    left: 30vw;
+    height: 50vh;
+    width: 50vw;
+    form {
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 30vw;
+        height: 30vh;
+    }
+    span {
+        text-align: left;
+        line-height: 30px;
+    }
+    .divInput{
+        display: flex;
+        flex-direction: column;
+        align-content: flex-start;
+        width:50%;
+    }
+    .divTextarea{
+        max-width: 100%;
+        textarea {
+            width: 100%;
+        }
+    }
+    .closeBTN {
+        cursor: pointer;
+        font-size: 2.5rem;
+        transform: rotate(45deg);
+        position: absolute;
+        top: 5%;
+        right: 5%;
+    }
+    .btn {
+        margin-top: 30px;
+        height: 2rem;
+        width: 6rem;
+        background-color: #438e9c;
+        border: none;
+        border-radius: 25px;
+    }
+}
+.modalEdit {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(113, 148, 218,0.9);
+    position: absolute;
+    z-index: 1;
+    top: 30vh;
+    left: 30vw;
+    height: 50vh;
+    width: 50vw;
+    form {
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 30vw;
+        height: 30vh;
+    }
+    span {
+        text-align: left;
+        line-height: 30px;
+    }
+    .divInput{
+        display: flex;
+        flex-direction: column;
+        align-content: flex-start;
+        width:50%;
+    }
+    .divTextarea{
+        max-width: 100%;
+        textarea {
+            width: 100%;
+        }
+    }
+    .closeBTN {
+        cursor: pointer;
+        font-size: 2.5rem;
+        transform: rotate(45deg);
+        position: absolute;
+        top: 5%;
+        right: 5%;
+    }
+    .btn {
+        margin-top: 30px;
+        height: 2rem;
+        width: 6rem;
+        background-color: #438e9c;
+        border: none;
+        border-radius: 25px;
+    }
+}
+.modalAboutApp {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(113, 148, 218,0.9);
+    position: absolute;
+    z-index: 1;
+    font-size: 2rem;
+    top: 30vh;
+    left: 25vw;
+    height: 50vh;
+    width: 50vw;
+    text-align: start;
+    .aboutApp {
+        margin: auto;
+        padding: 20px;
+    }
+    .closeBTN {
+        cursor: pointer;
+        font-size: 2.5rem;
+        transform: rotate(45deg);
+        position: absolute;
+        top: 5%;
+        right: 5%;
+    }
+}

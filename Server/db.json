@@ -1,0 +1,46 @@
+{
+  "ogloszenia": [
+    {
+      "title": "ddddd",
+      "author": "fdsfsd",
+      "description": "cos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tam",
+      "phone": "444444",
+      "email": "5fgdge@sfdas",
+      "id": 2
+    },
+    {
+      "title": "co tam",
+      "author": "nie",
+      "description": "cos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tam",
+      "phone": "44444",
+      "email": "du@pa",
+      "id": 3
+    },
+    {
+      "title": "ddddd",
+      "author": "fdsafsdfas",
+      "description": "cos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tamcos tam",
+      "phone": "9999999",
+      "email": "5fgdge@sfdas",
+      "id": 4
+    },
+    {
+      "title": "ddddd",
+      "author": "fdsafsdfas",
+      "description": "obudzilem sie wczoraj na kacu",
+      "phone": "9999999",
+      "email": "5fgdge@sfdas",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
